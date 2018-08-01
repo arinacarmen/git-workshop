@@ -1,3 +1,6 @@
 #GIT workshopat FE1
 Hello World from GIT :)
-ls
+
+
+## Description
+This is the Git tutorial / workshop
